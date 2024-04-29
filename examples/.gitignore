@@ -1,0 +1,11 @@
+# latex
+*.aux
+*.bcf
+*.log
+*.nav
+*.out
+*.xml
+*.snm
+*.toc
+
+*.pdf
